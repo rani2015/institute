@@ -1,0 +1,6 @@
+This is information text file for Project institute 
+1. ER diagrams 
+2. Database diagrams
+3. ddl for tables
+4. data for table
+5.
