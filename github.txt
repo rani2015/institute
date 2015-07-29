@@ -1,10 +1,4 @@
  Code
- Issues 0
- Pull requests 0
- Wiki
- Pulse
- Graphs
- Settings
 Quick setup — if you’ve done this kind of thing before
 
  Set up in Desktop	or	
